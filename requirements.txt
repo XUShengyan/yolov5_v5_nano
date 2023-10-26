@@ -1,8 +1,8 @@
 # pip install -r requirements.txt
 
 # base ----------------------------------------
-matplotlib~=3.3.0
 numpy~=1.15.0
+matplotlib~=3.3.0
 # opencv-python==4.5.3 # cmake compile
 # Pillow
 PyYAML>=5.3.1
